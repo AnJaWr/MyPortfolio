@@ -251,6 +251,10 @@ ul.my_portfolio-social-icons {
 
 /* -------------- A B O U T * M E--------------------- */
 
+#my_portfolio-about {
+    background-color: #d4d4d4;
+}
+
 .profile-thumb {
     background-size: cover !important;
     background-position: center center;
@@ -820,6 +824,11 @@ ul.my_portfolio-social-icons {
     justify-content: center;
     width: 100%;
     padding-top: 20px;
+}
+
+.gallery-low {
+    margin-top: 0;
+    padding-top: 0;
 }
 
 
