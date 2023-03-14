@@ -255,6 +255,15 @@ ul.my_portfolio-social-icons {
     background-color: #d4d4d4;
 }
 
+.about-col {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.about-col-one {
+    background-color: #c2c2c2;
+}
+
 .profile-thumb {
     background-size: cover !important;
     background-position: center center;
@@ -398,7 +407,7 @@ ul.my_portfolio-social-icons {
 }
 
 .info li .first-block {
-    width: 40%;
+    width: 20%;
     display: inline-block;
     /* float: left; */
     color: #000;
@@ -441,7 +450,7 @@ ul.my_portfolio-social-icons {
 }
 
 .my_portfolio-heading {
-    margin-bottom: 5em;
+    margin-bottom: 2em;
 }
 
 .my_portfolio-heading.my_portfolio-heading-sm {
@@ -713,6 +722,16 @@ ul.my_portfolio-social-icons {
 
 .artstation-container {
     background-color: #2f3c4f;
+}
+
+.artstation {
+    background-color: #aaaaaa;
+    color: black;
+    font-family: 'PT Sans', sans-serif !important;
+}
+
+.artstation:hover {
+    background-color: white;
 }
 
 .work {
